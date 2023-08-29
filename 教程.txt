@@ -1,0 +1,7 @@
+## torchrun 不是内部命令的处理
+```bash
+conda install pytorch torchvision cpuonly -c pytorch
+```
+
+## torchrun报错：failed to create process
+同时还需要 参考 https://blog.csdn.net/qq_44705203/article/details/129667903
